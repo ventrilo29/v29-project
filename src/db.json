@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "food": "soto",
+        "price": 15000
+    },
+    {
+        "id": 2,
+        "food": "rawon",
+        "price": 20000
+    },
+    {
+        "id": 3,
+        "food": "pecel",
+        "price": 7000
+    },
+    {
+        "id": 4,
+        "food": "sate",
+        "price": 12000
+    },
+    {
+        "id": 5,
+        "food": "rujak",
+        "price": 8000
+    }
+]
